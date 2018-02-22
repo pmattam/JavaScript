@@ -409,4 +409,9 @@ console.log(ticTacToe([
     [null, 'X', 'O']
 ]));
 
+console.log(ticTacToe([
+    ['O', 'X', 'X'],
+    [null, 'X', 'X'],
+    ['X', 'O', 'O']
+]));
 
